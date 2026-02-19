@@ -7,7 +7,9 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"mads-hartmann.bash-ide-vscode"
+				"mads-hartmann.bash-ide-vscode",
+				"hverlin.mise-vscode",
+				"tamasfe.even-better-toml"
 			]
 		}
 	}
