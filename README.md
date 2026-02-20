@@ -13,3 +13,4 @@ Tools configured by `install.sh`:
 - chezmoi (not yet being used for managing dotfiles)
 - eza
 - zoxide (init still needs to be added)
+- usage
